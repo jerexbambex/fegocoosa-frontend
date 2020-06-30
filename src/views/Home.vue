@@ -52,7 +52,7 @@
                             </ul> -->
                             <div class="mt-4">
                                 <!-- <a href="javascript:void(0)" class="btn btn-primary">Read More <i data-feather="arrow-right" class="fea icon-sm"></i></a> -->
-                                <a href="page-blog-detail.html" class="text-muted readmore">Read More <i data-feather="arrow-right" class="fea icon-sm"> </i></a>
+                                <a href="#" class="text-muted readmore">Read More <i data-feather="arrow-right" class="fea icon-sm"> </i></a>
                             </div>
                         </div>
                     </div><!--end col-->
@@ -65,70 +65,26 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12">
-                        <div id="customer-testi" class="owl-carousel owl-theme">
-                            <div class="card customer-testi border-0 text-center">
-                                <div class="card-body">
-                                    <img src="images/client/01.jpg" class="img-fluid avatar avatar-small rounded-circle mx-auto shadow" alt="">
-                                    <p class="text-muted mt-4">" It seems that only fragments of the original text remain in the Lorem Ipsum texts used today. "</p>
-                                    <h6 class="text-primary">- Thomas Israel</h6>
-                                </div>
-                            </div>
+                        <div class="rounded bg-brand p-lg-5 p-4">
+		                    <div class="row align-items-end">
+		                        <div class="col-md-8">
+		                            <div class="section-title text-md-left text-center">
+		                                <h4 class="title mb-3 text-white title-dark">Start connecting with your set members today</h4>
+		                                <p class="text-white-50 mb-0">A place to reminisce and go down memory lane together. A place to talk about the future and respond to the emerging needs of our dear school.</p>
+		                            </div>
+		                        </div><!--end col-->
 
-                            <div class="card customer-testi border-0 text-center">
-                                <div class="card-body">
-                                    <img src="images/client/02.jpg" class="img-fluid avatar avatar-small rounded-circle mx-auto shadow" alt="">
-                                    <p class="text-muted mt-4">" The most well-known dummy text is the 'Lorem Ipsum', which is said to have originated in the 16th century. "</p>
-                                    <h6 class="text-primary">- Carl Oliver</h6>
-                                </div>
-                            </div>
-
-                            <div class="card customer-testi border-0 text-center">
-                                <div class="card-body">
-                                    <img src="images/client/03.jpg" class="img-fluid avatar avatar-small rounded-circle mx-auto shadow" alt="">
-                                    <p class="text-muted mt-4">" One disadvantage of Lorum Ipsum is that in Latin certain letters appear more frequently than others. "</p>
-                                    <h6 class="text-primary">- Barbara McIntosh</h6>
-                                </div>
-                            </div>
-
-                            <div class="card customer-testi border-0 text-center">
-                                <div class="card-body">
-                                    <img src="images/client/04.jpg" class="img-fluid avatar avatar-small rounded-circle mx-auto shadow" alt="">
-                                    <p class="text-muted mt-4">" Thus, Lorem Ipsum has only limited suitability as a visual filler for German texts. "</p>
-                                    <h6 class="text-primary">- Jill Webb</h6>
-                                </div>
-                            </div>
-
-                            <div class="card customer-testi border-0 text-center">
-                                <div class="card-body">
-                                    <img src="images/client/05.jpg" class="img-fluid avatar avatar-small rounded-circle mx-auto shadow" alt="">
-                                    <p class="text-muted mt-4">" There is now an abundance of readable dummy texts. These are usually used when a text is required. "</p>
-                                    <h6 class="text-primary">- Dean Tolle</h6>
-                                </div>
-                            </div>
-
-                            <div class="card customer-testi border-0 text-center">
-                                <div class="card-body">
-                                    <img src="images/client/06.jpg" class="img-fluid avatar avatar-small rounded-circle mx-auto shadow" alt="">
-                                    <p class="text-muted mt-4">" According to most sources, Lorum Ipsum can be traced back to a text composed by Cicero. "</p>
-                                    <h6 class="text-primary">- Christa Smith</h6>
-                                </div>
-                            </div>
-                        </div>
+		                        <div class="col-md-4 mt-4 mt-sm-0">
+		                            <div class="text-md-right text-center">
+		                                <a href="javascript:void(0)" class="btn btn-light">Get Started</a>
+		                            </div>
+		                        </div><!--end col-->
+		                    </div><!--end row-->
+		                </div>
                     </div><!--end col-->
                 </div><!--end row-->
 
-                <div class="row mt-md-5 pt-md-3 mt-4 pt-2 mt-sm-0 pt-sm-0 justify-content-center">
-                    <div class="col-12 text-center">
-                        <div class="section-title">
-                            <h4 class="title mb-4">Get the App now !</h4>
-                            <p class="text-muted para-desc mx-auto">Start working with <span class="text-primary font-weight-bold">Landrick</span> that can provide everything you need to generate awareness, drive traffic, connect.</p>
-                            <div class="mt-4">
-                                <a href="javascript:void(0)" class="btn btn-primary mt-2 mr-2"><i class="mdi mdi-apple"></i> App Store</a>
-                                <a href="javascript:void(0)" class="btn btn-outline-primary mt-2"><i class="mdi mdi-google-play"></i> Play Store</a>
-                            </div>
-                        </div>
-                    </div><!--end col-->
-                </div><!--end row-->
+                <!--end row-->
             </div><!--end container-->
         </section><!--end section-->
         <!-- Testi n Download cta End -->

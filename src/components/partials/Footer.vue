@@ -25,8 +25,8 @@
                         <ul class="list-unstyled footer-list mt-4">
                             <li><a href="#" class="text-muted"><i class="mdi mdi-chevron-right mr-1"></i> About us</a></li>
                             <li><a href="#" class="text-muted"><i class="mdi mdi-chevron-right mr-1"></i> Team</a></li>
+                            <li><a href="#" class="text-muted"><i class="mdi mdi-chevron-right mr-1"></i> Set Ambassadors</a></li>
                             <li><a href="#" class="text-muted"><i class="mdi mdi-chevron-right mr-1"></i> Services</a></li>
-                            <li><a href="#" class="text-muted"><i class="mdi mdi-chevron-right mr-1"></i> Dues</a></li>
                             <li><a href="#" class="text-muted"><i class="mdi mdi-chevron-right mr-1"></i> Projects</a></li>
                             <li><a href="#" class="text-muted"><i class="mdi mdi-chevron-right mr-1"></i> Careers</a></li>
                             <li><a href="#" class="text-muted"><i class="mdi mdi-chevron-right mr-1"></i> Blog</a></li>
