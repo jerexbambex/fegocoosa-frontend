@@ -1,0 +1,39 @@
+@font-face {
+	font-family: gobold;
+	src: url('fonts/goboing.ttf');
+}
+
+@font-face {
+	font-family: montserrat;
+	src: url('fonts/SailecRegular.ttf');
+}
+
+.font-boing {
+	font-family: gobold;
+}
+
+.font-montserrat {
+	font-family: montserrat !important;
+}
+
+.my-btn {
+	border-radius: 10px !important;
+}
+
+.bg-new {
+	background-color: #234e52 !important;
+}
+
+.bg-brand {
+	background-color: #009241 !important;
+}
+
+.btn-brand {
+	background-color: #009241 !important;
+	color: #fff !important;;
+}
+
+.btn-brand:hover {
+	background-color: #4bba7c !important;
+	color: #fff !important;;
+}
